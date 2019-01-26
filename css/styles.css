@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(153, 54, 54);
+    text-align: center;
+    color: antiquewhite;
+    margin: 0em;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    font-size: 65px;    
+}
+h2{
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+    color: seagreen;
+    background-color: antiquewhite;
+}
+h3{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-style: italic;
+}
+li a.hover{
+    background-color: lemonchiffon;
+}
+li{
+    font-family: 'Unica One', cursive; 
+    font-size: 25px;
+}
+.content{
+    font-family: 'Comfortaa', cursive;
+    border-width:10px;  
+    border-style:groove;
+    border-color: seagreen;
+    height: auto;
+}
