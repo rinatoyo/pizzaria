@@ -4,6 +4,19 @@ body{
     color: antiquewhite;
     margin: 0em;
 }
+.guide{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+li {
+    font-family: 'Unica One', cursive; 
+    font-size: 25px;
+    border: sandybrown;
+  }
+  
 h1{
     font-family: 'Comfortaa', cursive;
     font-size: 65px;    
@@ -19,17 +32,19 @@ h3{
     font-size: 30px;
     font-style: italic;
 }
-li a.hover{
-    background-color: lemonchiffon;
-}
-li{
-    font-family: 'Unica One', cursive; 
-    font-size: 25px;
-}
+
+
 .content{
     font-family: 'Comfortaa', cursive;
     border-width:10px;  
     border-style:groove;
     border-color: seagreen;
     height: auto;
+}
+
+#addy{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
 }
